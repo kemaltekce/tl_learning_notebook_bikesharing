@@ -13,3 +13,6 @@ In this notebook students are going to combine all these skills and knowledge to
 It is time for you to implement your **frist machine learning (ML) models** from skretch and practice what you have learnt so far. Additionally, the goal of this notebook is to introduce you to a **Data Science Hypothesis Process** which you can use later for your own projects. This process will allow you to make data science projects repeatable by establishing a machine learning strategy instead of a machine learning snapshot.
 
 The notebook is structured in such a way that you will go through a whole data science process. From a short data **exploration** to data **cleaning** and preparation to **formulating hypotheses** and **building ML models** which you then evaluate and refine.
+
+## Solutions
+Feel free to contact me, if you want the solutions.
