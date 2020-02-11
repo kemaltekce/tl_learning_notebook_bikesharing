@@ -1,6 +1,6 @@
 # TechLabs Learning - BikeSharing Notebook
 
-I built this notebook for the TechLabs Data Science Curriculum, so that students can practice their skills and deepen their knowledge.
+I built this notebook for the TechLabs Data Science Curriculum, so that students can practice their skills and deepen their knowledge. The notebook uses the Kaggle BikeSharing dataset.
 
 *Feel free to download the notebook and practice yourself.*
 
